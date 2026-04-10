@@ -1,18 +1,3 @@
-// Copyright 2026 Zenovay Analytics
-
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
-
-//     https://www.apache.org/licenses/LICENSE-2.0
-
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-// See the License for the specific language governing permissions and
-// limitations under the License.
-
-
 ___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
@@ -87,6 +72,7 @@ ___TEMPLATE_PARAMETERS___
 ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
 // Zenovay Analytics — GTM Community Template
+// Copyright 2026 Zenovay Analytics — Apache License 2.0
 // https://github.com/zenovay/gtm-zenovay
 
 var injectScript = require('injectScript');
@@ -223,5 +209,6 @@ ___WEB_PERMISSIONS___
 ___NOTES___
 
 Zenovay Analytics GTM Community Template.
+Copyright 2026 Zenovay Analytics — Apache License 2.0
 Documentation: https://docs.zenovay.com/integrations/gtm
 GitHub: https://github.com/zenovay/gtm-zenovay
