@@ -1,2 +1,5 @@
-homepage: https://github.com/zenovay/gtm-zenovay
-documentation: https://docs.zenovay.com/integrations/gtm
+homepage: "https://zenovay.com"
+documentation: "https://docs.zenovay.com/integrations/gtm"
+versions:
+  - sha: 7b3e8a78113793b6905e715cda47ef71da8d89ad
+    changeNotes: Initial release.
