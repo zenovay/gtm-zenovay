@@ -1,3 +1,5 @@
+Copyright 2026 Zenovay Analytics
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -46,11 +48,9 @@
 
       "Contribution" shall mean, as submitted to the Licensor for inclusion
       in the Work by the copyright owner or by an individual or Legal Entity
-      authorized to submit on behalf to the Licensor, including but not
-      limited to text, comments, and patches submitted to the Licensor's
-      bug tracking systems and communication channels in, but excluding
-      communication that is conspicuously marked or designated in writing
-      by the copyright owner as "Not a Contribution."
+      authorized to submit on behalf of the copyright owner, any work of
+      authorship, including the original version of the Work and any
+      modifications or additions to that Work or Derivative Works of the Work.
 
       "Contributor" shall mean Licensor and any Legal Entity on behalf of
       whom a Contribution has been received by the Licensor and has been
@@ -162,16 +162,25 @@
 
    END OF TERMS AND CONDITIONS
 
-   Copyright 2026 Zenovay Analytics
+   APPENDIX: How to apply the Apache License to your work.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format in question. It may also be
+      provided in a machine-readable format in another form.
 
-       http://www.apache.org/licenses/LICENSE-2.0
+      Copyright [yyyy] [name of copyright owner]
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+      Licensed under the Apache License, Version 2.0 (the "License");
+      you may not use this file except in compliance with the License.
+      You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+      Unless required by applicable law or agreed to in writing, software
+      distributed under the License is distributed on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied. See the License for the specific language governing
+      permissions and limitations under the License.
