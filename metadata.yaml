@@ -1,5 +1,5 @@
 homepage: "https://zenovay.com"
 documentation: "https://docs.zenovay.com/integrations/gtm"
 versions:
-  - sha: f4a28c75c3b159b78dc87836f59933cf9cb222f7
+  - sha: 40415753afd79fa9289e95b7cb1249882692f268
     changeNotes: Initial release.
